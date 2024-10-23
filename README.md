@@ -29,7 +29,8 @@ This is a simple graphical user interface (GUI) Rock, Paper, Scissors game built
 4. Enjoy the game and try to become the champion! 🏆
 
 ### Screenshots
-![Game Screenshot](![image](https://github.com/user-attachments/assets/48ca4063-7310-4a7f-9c12-e94bd5c94aab)) 
+![Game Screenshot]
+![image](https://github.com/user-attachments/assets/48ca4063-7310-4a7f-9c12-e94bd5c94aab)
 
 ### Future Improvements
 - Add a reset button to restart the game without closing the application.
