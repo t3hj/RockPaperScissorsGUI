@@ -11,14 +11,14 @@ This is a simple graphical user interface (GUI) Rock, Paper, Scissors game built
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/t3hj/RockPaperScissors.git
-   cd RockPaperScissors
+   git clone https://github.com/t3hj/RockPaperScissorsGUI.git
+   cd RockPaperScissorsGUI
    ```
 2. **Ensure you have Python installed** (preferably version 3.x).
 
 3. **Run the program:**
    ```bash
-   python rock_paper_scissors_gui.py
+   python RockPaperScissors.py
    ```
 
 ### How to Play
