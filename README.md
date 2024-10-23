@@ -1,4 +1,4 @@
-# 🪨✂️📄 Rock, Paper, Scissors Game
+# 🪨📄✂️ Rock, Paper, Scissors Game
 
 ### Overview
 This is a simple graphical user interface (GUI) Rock, Paper, Scissors game built using Python's `tkinter` library. Players compete against the computer, and the game keeps track of scores until one player reaches 3 points.
@@ -6,7 +6,6 @@ This is a simple graphical user interface (GUI) Rock, Paper, Scissors game built
 ### Features
 - **Player vs Computer** 🤖: Play against a computer opponent.
 - **Score Tracking** 📊: Keeps track of scores for both the player and the computer.
-- **Emojis** 🎉: Fun emojis for Rock (🪨), Paper (📄), and Scissors (✂️).
 - **Game End Condition** 🏆: The game ends when either player wins 3 rounds.
 
 ### Installation
