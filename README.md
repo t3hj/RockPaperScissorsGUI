@@ -37,3 +37,13 @@ This is a simple graphical user interface (GUI) Rock, Paper, Scissors game built
 
 ### Contributing
 Feel free to fork the repository and submit a pull request if you have improvements or features to add! 🤝
+
+
+## Browser demo
+
+Hosted demo: https://t3hj.github.io/portfolio-website/demos/RockPaperScissorsGUI/
+
+The `web/` directory contains a browser adaptation of this desktop project. The original implementation remains unchanged. This demo focuses on the core interactive features; it does not run the Python/Java desktop runtime.
+
+Serve `web/` with a static web server for local preview. The hosted copy is deployed through the portfolio's existing GitHub Pages site; enabling Pages on this repository is optional.
+
